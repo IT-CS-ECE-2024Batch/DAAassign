@@ -1,4 +1,5 @@
-#include <bits/stdc++.h>
+/* Linear Search Algorithm */
+#include <iostream>
 using namespace std;
 
 int linearSearch(int arr[], int n, int x);
