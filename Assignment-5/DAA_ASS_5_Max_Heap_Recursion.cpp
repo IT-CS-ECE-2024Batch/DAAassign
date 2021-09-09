@@ -67,7 +67,6 @@ int main()
 	cout<<"sorted array\n";
 	print_array(a, n);
 
-	cout<<"\n Program by Umang Bhalla 20U03031\n";
 
 	return 0;
 }
