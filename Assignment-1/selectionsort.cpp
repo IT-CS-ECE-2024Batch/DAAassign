@@ -26,3 +26,4 @@ int main()
     {
         printf("%d\n", A[i]);
     }
+}
